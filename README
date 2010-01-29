@@ -1,0 +1,11 @@
+Hey
+
+find_best.py accepts locations and sizes on stdin, and prints an x and a y coordinate on stdout. It takes 4 arguments - the width and height of the screen, and the width and height of the window.
+
+If no spaces big enough are found, it returns exit code one, like it should :)
+
+Appologies for the lack of comments, it's late.
+
+Also, appologies about geo.py - it was writtten for my a-level coursework and is big, slow and ugly. it could easily be replaced by something much smaller for this. It does, however do some pretty awesome things.
+
+Enjoy :)
